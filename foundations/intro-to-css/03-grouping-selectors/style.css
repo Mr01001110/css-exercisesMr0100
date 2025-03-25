@@ -1,0 +1,11 @@
+.oneB {
+    background-color: black;
+    color: white;
+}
+.twoB {
+    background-color: yellow;
+}
+.oneB, .twoB {
+    font-size: 28px;
+    font-family: Helveltica, 'Times New Roman', sans-serif ;
+}
